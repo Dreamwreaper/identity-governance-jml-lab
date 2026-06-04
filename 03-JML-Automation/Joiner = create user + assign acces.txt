@@ -1,0 +1,3 @@
+Joiner = create user + assign access
+Mover = change department + update access
+Leaver = disable/remove access
